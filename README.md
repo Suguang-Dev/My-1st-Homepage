@@ -2,7 +2,7 @@
 (Think) I don't know what I'll write... It just my homepage and some writings.
 # README First Please!!!
 
-##简体中文版（Simplified Chinese）
+## 简体中文版（Simplified Chinese）
 尊敬的读者朋友，您好！
 这个项目是我（笔名“溯光”）的第一个项目，有不妥的地方还请多多关照！
 这个仓库其实不对外开放才对的，不过因为不是很识英文就调成公开了……或者说是为了让部署网站的托管平台可以识别。
@@ -11,7 +11,7 @@
 感谢阅读。
 笔友 溯光 2026年7月19日17:14完成，广州（东八区）
 
-##English Version (现代英文)
+## English Version (现代英文)
 Before read this, please let me say something. Okay?
 I cannot say English very well and sometimes maybe I'd say that "Chinglish" 'cause I'm a student still studying English.
 Emmm... If I want to say something I didn't study, please let me use "fanyi.baidu.com" what a translation machine (like this word group).
