@@ -21,3 +21,7 @@ Thanks for read it.
 Yours, 
 Suguang(a writer)
 July 19, 2026. 17:36(UTC+8:00)
+
+
+如果你是在`https://suguang-dev.github.io/My-1st-Homepage/`看到的，那就是阿光（溯光）还在更新呢……碰巧了。没关系过几分钟就好了（除非咱要气死了GitHub上不去）
+If you are` https://suguang-dev.github.io/My-1st-Homepage/ `as you can see, Guang (Suguang) is still updating... It happened. It doesn't matter. It will be ready in a few minutes (unless we are angry and can't go to GitHub)
